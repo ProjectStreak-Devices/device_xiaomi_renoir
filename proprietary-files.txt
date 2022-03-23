@@ -568,7 +568,7 @@ vendor/etc/libnfc-nxp.conf
 vendor/etc/libnfc-nxp_RF.conf
 
 # Sensors
--vendor/bin/init.qcom.sensors.sh
+vendor/bin/init.qcom.sensors.sh
 -vendor/bin/sensors.qti
 -vendor/bin/sscrpcd
 vendor/etc/elliptic_sensor.xml
